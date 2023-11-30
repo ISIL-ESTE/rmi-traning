@@ -23,3 +23,8 @@ This repository is a dedicated space for mastering Java Remote Method Invocation
 Contributions are welcome! If you have exercises, improvements, or additional resources to share, feel free to create a pull request.
 
 Let's code together and master Java RMI! 💻🌐 #JavaRMI #DistributedComputing
+
+
+
+# rmi-traning
+Enjoy the RMI training repository! 🚀 and don't forget to star it ⭐️
