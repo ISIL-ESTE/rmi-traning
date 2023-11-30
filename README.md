@@ -1,18 +1,25 @@
+# RMI-Training
+
+Welcome to the RMI-Training repository! 🚀
+
+## Overview
+
+This repository is a dedicated space for mastering Java Remote Method Invocation (RMI). Whether you're a student or a developer, you'll find hands-on exercises and training materials covering RMI concepts, implementation, and advanced applications.
+
+## Features
+
+- **Hands-On Exercises:** Practical exercises for honing your RMI skills.
+- **Comprehensive Coverage:** Explore RMI concepts, implementation, and advanced applications.
+- **Structured Learning:** Master distributed computing in a practical and organized environment.
+
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+1. Clone this repository.
+2. Dive into the exercises folder to start your RMI training journey.
+3. Explore the documentation for additional resources.
 
-## Folder Structure
+## Contributions
 
-The workspace contains two folders by default, where:
+Contributions are welcome! If you have exercises, improvements, or additional resources to share, feel free to create a pull request.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Let's code together and master Java RMI! 💻🌐 #JavaRMI #DistributedComputing
